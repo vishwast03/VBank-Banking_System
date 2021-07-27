@@ -1,0 +1,24 @@
+{
+  "name": "vbank-banking_system",
+  "version": "1.0.0",
+  "description": "\"This is the implementation of basic banking system.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwast03/VBank-Banking_System.git"
+  },
+  "author": "Vishwas Tyagi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishwast03/VBank-Banking_System/issues"
+  },
+  "homepage": "https://github.com/vishwast03/VBank-Banking_System#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "pug": "^3.0.2"
+  }
+}
